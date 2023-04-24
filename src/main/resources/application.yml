@@ -4,3 +4,6 @@ server:
 spring:
   main:
     web-application-type: servlet
+  devtools:
+    restart:
+      enable: true
